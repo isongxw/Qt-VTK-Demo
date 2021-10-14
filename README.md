@@ -1,6 +1,6 @@
 # Qt-VTK-Demo
 
-Demo project for learning to use VTK9.1 library for development in Qt5
+Demo project for learning to use VTK9  for development in Qt5
 
 Software version
 
